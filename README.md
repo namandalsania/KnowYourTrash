@@ -7,6 +7,10 @@ This model classifies the image way faster and with greater accuracy than the pr
 We have also implemented CBAM (Convolutional Block Attention Module) to improve the feature representation of images.
 
 &nbsp;<br>
+<em>Dataset</em>:&nbsp;<br>
+Most of the data is taken from [Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data) and the rest is taken manually by us from our smartphone cameras.
+
+&nbsp;<br>
 The research paper is currently being reviewed for publication in an IEEE journal and is expected to be published in October.
 
 If any doubts, mail me at naman.dalsania24@nmims.edu.in
