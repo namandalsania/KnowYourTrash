@@ -6,6 +6,7 @@ This model classifies the image way faster and with greater accuracy than the pr
 
 We have also implemented CBAM (Convolutional Block Attention Module) to improve the feature representation of images.
 
+&nbsp;<br>
 The research paper is currently being reviewed for publication in an IEEE journal and is expected to be published in October.
 
 If any doubts, mail me at naman.dalsania24@nmims.edu.in
