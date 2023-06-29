@@ -8,7 +8,7 @@ We have also implemented CBAM (Convolutional Block Attention Module) to improve 
 
 &nbsp;<br>
 <em>Dataset</em>:&nbsp;<br>
-Most of the data is taken from [Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data) and the rest is taken manually by us from our smartphone cameras.
+We sourced most data from [Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data) and manually collected the rest using our smartphone cameras.
 
 &nbsp;<br>
 The research paper is currently being reviewed for publication in an IEEE journal and is expected to be published in October.
