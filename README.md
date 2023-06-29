@@ -6,6 +6,9 @@ This model aims to output the answer in much better time and with greater accura
 
 We have implemented CBAM (Convolutional Block Attention Module) to improve the feature representation of images.
 
+The research paper is currently being reviewed for publication in an IEEE journal and is expected to be published in October.
 
+If any doubts, mail me at naman.dalsania24@nmims.edu.in
 
+Connect with me on ResearchGate: [Naman Dalsania](https://www.researchgate.net/profile/Naman-Dalsania)
 
